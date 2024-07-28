@@ -1,0 +1,1350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Custom Fields PRO\n"
+"POT-Creation-Date: 2023-08-09 21:21-0700\n"
+"PO-Revision-Date: 2023-08-13 08:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: acf.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.6.4; wp-6.3"
+
+msgid " (Duplicated from %s)"
+msgstr " (کپی شده از %s)"
+
+msgid "#"
+msgstr "#"
+
+msgid "layouts"
+msgstr "طرح"
+
+msgid "movie"
+msgstr "فیلم"
+
+msgctxt "noun"
+msgid "Clone"
+msgstr "کپی (هیچ)"
+
+msgctxt "noun"
+msgid "Select"
+msgstr "انتخاب (Select)"
+
+msgid "oEmbed"
+msgstr "جاسازی کردن"
+
+msgid "or"
+msgstr "یا"
+
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s از %2$s"
+
+msgctxt "post status"
+msgid "Active"
+msgstr "فعال"
+
+msgctxt "post status"
+msgid "Inactive"
+msgstr "غیر فعال"
+
+msgctxt "post status"
+msgid "Registration Failed"
+msgstr "ثبت نام انجام نشد"
+
+msgid "post type"
+msgstr "نوع پست"
+
+msgid "red : Red"
+msgstr "red : قرمز"
+
+msgid "taxonomy"
+msgstr "طبقه بندی"
+
+msgctxt "verb"
+msgid "Edit"
+msgstr "ویرایش"
+
+msgctxt "verb"
+msgid "Select"
+msgstr "انتخاب (Select)"
+
+msgctxt "verb"
+msgid "Update"
+msgstr "بروزرسانی"
+
+msgid "width"
+msgstr "عرض"
+
+msgid "{available} {label} {identifier} available (max {max})"
+msgstr "{available} {label} {identifier} موجود است (حداکثر {max})"
+
+msgid "{required} {label} {identifier} required (min {min})"
+msgstr "{required} {label} {identifier} لازم دارد (حداقل {min})"
+
+msgid "← Go to %s"
+msgstr "← به %s بروید"
+
+msgid "← Go to tags"
+msgstr "← به برچسب ها بروید"
+
+msgid "The capability name for managing terms of this taxonomy."
+msgstr "نام قابلیت مدیریت شرایط این طبقه بندی."
+
+msgid "The capability required for this menu to be displayed to the user."
+msgstr "قابلیت مورد نیاز برای نمایش این منو به کاربر."
+
+msgid "The changes you made will be lost if you navigate away from this page"
+msgstr "اگر از صفحه جاری خارج شوید ، تغییرات شما ذخیره نخواهند شد"
+
+msgid ""
+"The description is not prominent by default; however, some themes may show "
+"it."
+msgstr ""
+"این توضیحات به طور پیش‌فرض برجسته نیست با این حال، برخی از قالب‌ها ممکن است "
+"آن را نمایش دهند."
+
+msgid ""
+"The following code can be used to register a local version of the selected "
+"items. Storing field groups, post types, or taxonomies locally can provide "
+"many benefits such as faster load times, version control & dynamic "
+"fields/settings. Simply copy and paste the following code to your theme's "
+"functions.php file or include it within an external file, then deactivate or "
+"delete the items from the ACF admin."
+msgstr ""
+"کد زیر را می توان برای ثبت یک نسخه محلی از موارد انتخاب شده استفاده کرد. "
+"ذخیره گروه‌های فیلد، انواع پست یا طبقه‌بندی به صورت محلی می‌تواند مزایای "
+"زیادی مانند زمان بارگذاری سریع‌تر، کنترل نسخه و زمینه ها/تنظیمات پویا را "
+"ارائه دهد. به سادگی کد زیر را در فایل functions.php قالب خود کپی و جایگذاری "
+"کنید یا آن را در یک فایل خارجی قرار دهید، سپس موارد را از ادمین ACF غیرفعال "
+"یا حذف کنید."
+
+msgid ""
+"The following sites require a DB upgrade. Check the ones you want to update "
+"and then click %s."
+msgstr "این سایت ها نیاز به به روز رسانی دارند برای انجام %s کلیک کنید."
+
+msgid "The format displayed when editing a post"
+msgstr "قالب در زمان نمایش نوشته دیده خواهد شد"
+
+msgid "The format returned via template functions"
+msgstr "قالب توسط توابع پوسته نمایش داده خواهد شد"
+
+msgid "The format used when saving a value"
+msgstr "قالب استفاده در زمان ذخیره مقدار"
+
+msgid ""
+"The icon used for the options page menu item in the admin dashboard. Can be "
+"a URL or %s to use for the icon."
+msgstr ""
+"نماد مورد استفاده برای مورد منو صفحه گزینه ها در پیشخوان مدیریت. می تواند یک "
+"URL یا %s برای استفاده برای نماد باشد."
+
+msgid ""
+"The icon used for the post type menu item in the admin dashboard. Can be a "
+"URL or %s to use for the icon."
+msgstr ""
+"آیکون مورد استفاده برای آیتم منوی نوع پست در داشبورد مدیریت. می تواند یک URL "
+"یا %s برای استفاده برای آیکون باشد."
+
+msgid ""
+"The label used for the submit button which updates the fields on the options "
+"page."
+msgstr ""
+"برچسب مورد استفاده برای دکمه ارسال که زمینه های صفحه گزینه ها را بروز می کند."
+
+msgid ""
+"The menu slug must only contain lower case alphanumeric characters, "
+"underscores or dashes."
+msgstr ""
+"نامک منو فقط باید شامل کارکتر های حروف عددی کوچک، زیرخط یا خط تیره باشد."
+
+msgid ""
+"The message that is displayed after successfully updating the options page."
+msgstr "پیامی که پس از بروزرسانی موفقیت آمیز صفحه گزینه ها نمایش داده می شود."
+
+msgid "The name is how it appears on your site"
+msgstr "نام این است که چگونه در سایت شما ظاهر می شود"
+
+msgid "The name of the default term."
+msgstr "نام شرط پیشفرض."
+
+msgid "The namespace part of the REST API URL."
+msgstr "قسمت فضای نام URL API REST."
+
+msgid "The position in the menu where this page should appear. %s"
+msgstr "موقعیتی در منو که این صفحه باید ظاهر شود. %s"
+
+msgid "The position in the sidebar menu in the admin dashboard."
+msgstr "موقعیت در منوی نوار کناری در پیشخوان مدیریت."
+
+msgid "The post type key must be under 20 characters."
+msgstr "کلید نوع پست باید کمتر از 20 کاراکتر باشد."
+
+msgid ""
+"The post type key must only contain lower case alphanumeric characters, "
+"underscores or dashes."
+msgstr ""
+"کلید نوع پست فقط باید شامل نویسه های حروف عددی کوچک، زیرخط یا خط تیره باشد."
+
+msgid "The provided Menu Slug already exists."
+msgstr "نامک منو ارائه شده از قبل وجود دارد."
+
+msgid "The string \"field_\" may not be used at the start of a field name"
+msgstr "کلمه متنی \"field_\" نباید در ابتدای نام زمینه استفاده شود"
+
+msgid "The taxonomy key must be under 32 characters."
+msgstr "کلید طبقه بندی باید کمتر از 32 کاراکتر باشد."
+
+msgid ""
+"The taxonomy key must only contain lower case alphanumeric characters, "
+"underscores or dashes."
+msgstr ""
+"کلید طبقه بندی فقط باید شامل نویسه های حروف عددی کوچک، زیرخط یا خط تیره باشد."
+
+msgid "There was an error retrieving the field."
+msgstr "هنگام بازیابی زمینه خطایی روی داد."
+
+msgid "This Field"
+msgstr "این زمینه"
+
+msgid "This Menu Slug is already in use by another ACF Options Page."
+msgstr ""
+"این نام منو در حال حاضر توسط یکی دیگر از صفحه گزینه های ACF استفاده می شود."
+
+msgid ""
+"This allows you to select and display existing fields. It does not duplicate "
+"any fields in the database, but loads and displays the selected fields at "
+"run-time. The Clone field can either replace itself with the selected fields "
+"or display the selected fields as a group of subfields."
+msgstr ""
+"این به شما امکان می دهد زمینه های موجود را انتخاب و نمایش دهید. هیچ زمینه ای "
+"را در پایگاه داده کپی نمی کند، اما زمینه های انتخاب شده را در زمان اجرا "
+"بارگیری و نمایش می دهد. زمینه کلون می تواند خود را با زمینه های انتخابی "
+"جایگزین کند یا زمینه های انتخاب شده را به صورت گروهی از زیر زمینه های نمایش "
+"دهد."
+
+msgid "This block contains no editable fields."
+msgstr "این بلوک فاقد زمینه های قابل ویرایش است."
+
+msgid "This field cannot be moved until its changes have been saved"
+msgstr "این زمینه قبل از اینکه ذخیره شود نمی تواند جابجا شود"
+
+msgid "This field has a limit of {max} {label} {identifier}"
+msgstr "این گزینه محدود است به {max} {label} {identifier}"
+
+msgid ""
+"This field must not be a WordPress <a href=\"%s\" target=\"_blank\">reserved "
+"term</a>."
+msgstr ""
+"این زمینه نباید یک <a href=\"%s\" target=\"_blank\">اصطلاح رزرو شده</a> "
+"وردپرس باشد."
+
+msgid "This field requires at least {min} {label} {identifier}"
+msgstr "این زمینه لازم دارد {min} {label} {identifier}"
+
+msgid "This is the name which will appear on the EDIT page"
+msgstr "این نامی است که در صفحه \"ویرایش\" نمایش داده خواهد شد"
+
+msgid ""
+"This item could not be registered because its key is in use by another item "
+"registered by another plugin or theme."
+msgstr ""
+"این مورد ثبت نشد زیرا کلید آن توسط مورد دیگری که توسط افزونه یا طرح زمینه "
+"دیگری ثبت شده است استفاده می شود."
+
+msgid ""
+"This post type could not be registered because its key is in use by another "
+"post type registered by another plugin or theme."
+msgstr ""
+"این نوع پست را نمی توان ثبت کرد زیرا کلید آن توسط نوع پست دیگری که توسط "
+"افزونه یا قالب دیگری ثبت شده است استفاده می شود."
+
+msgid ""
+"This post type key is already in use by another post type in ACF and cannot "
+"be used."
+msgstr ""
+"این کلید نوع پست قبلاً توسط یک نوع پست دیگر در ACF استفاده می شود و قابل "
+"استفاده نیست."
+
+msgid ""
+"This post type key is already in use by another post type registered outside "
+"of ACF and cannot be used."
+msgstr ""
+"این کلید نوع پست قبلاً توسط نوع پست دیگری که خارج از ACF ثبت شده استفاده می "
+"شود و قابل استفاده نیست."
+
+msgid ""
+"This provides a simple, structured, layout-based editor. The Flexible "
+"Content field allows you to define, create and manage content with total "
+"control by using layouts and subfields to design the available blocks."
+msgstr ""
+"این یک ویرایشگر ساده، ساختار یافته و مبتنی بر چیدمان را فراهم می کند. قسمت "
+"محتوای انعطاف پذیر به شما این امکان را می دهد که با استفاده از طرح بندی ها و "
+"زمینه های فرعی برای طراحی بلوک های موجود، محتوا را با کنترل کامل تعریف، "
+"ایجاد و مدیریت کنید."
+
+msgid ""
+"This provides a solution for repeating content such as slides, team members, "
+"and call-to-action tiles, by acting as a parent to a set of subfields which "
+"can be repeated again and again."
+msgstr ""
+"این راه حلی را برای تکرار محتوا مانند اسلایدها، اعضای تیم و پازلی ها دعوت به "
+"اقدام، با عمل به عنوان والد برای مجموعه‌ای از زیر زمینه ها که می‌توانند "
+"بارها و بارها تکرار شوند، فراهم می‌کند."
+
+msgid ""
+"This provides an interactive interface for managing a collection of "
+"attachments. Most settings are similar to the Image field type. Additional "
+"settings allow you to specify where new attachments are added in the gallery "
+"and the minimum/maximum number of attachments allowed."
+msgstr ""
+"این یک رابط تعاملی برای مدیریت مجموعه ای از پیوست ها فراهم می کند. اکثر "
+"تنظیمات مشابه نوع زمینه تصویر هستند. تنظیمات اضافی به شما این امکان را می "
+"دهد که مکان اضافه شدن پیوست های جدید در گالری و حداقل/حداکثر تعداد پیوست های "
+"مجاز را مشخص کنید."
+
+msgid ""
+"This taxonomy could not be registered because its key is in use by another "
+"taxonomy registered by another plugin or theme."
+msgstr ""
+"این طبقه‌بندی نمی‌تواند ثبت شود زیرا کلید آن توسط طبقه‌بندی دیگری که توسط "
+"افزونه یا قالب دیگری ثبت شده است، استفاده می‌شود."
+
+msgid ""
+"This taxonomy key is already in use by another taxonomy in ACF and cannot be "
+"used."
+msgstr ""
+"این کلید طبقه بندی در حال حاضر توسط طبقه بندی دیگری در ACF استفاده می شود و "
+"قابل استفاده نیست."
+
+msgid ""
+"This taxonomy key is already in use by another taxonomy registered outside "
+"of ACF and cannot be used."
+msgstr ""
+"این کلید طبقه بندی در حال حاضر توسط طبقه بندی دیگری که خارج از ACF ثبت شده "
+"است استفاده می شود و قابل استفاده نیست."
+
+msgid ""
+"This version contains improvements to your database and requires an upgrade."
+msgstr "این نسخه شامل بهبودهایی در پایگاه داده است و نیاز به ارتقا دارد."
+
+msgid "Thumbnail"
+msgstr "تصویر بندانگشتی"
+
+msgid "Time Picker"
+msgstr "انتخاب زمان"
+
+msgid "TinyMCE will not be initialized until field is clicked"
+msgstr "TinyMCE تا زمانی که قسمت زمینه انتخاب نشود ، اولیه نمی شود"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Title for a navigation link block variation."
+msgstr "عنوان یک تغییر بلوک پیوند ناوبری."
+
+msgid ""
+"To enable updates, please enter your license key on the <a href=\"%1$s\">"
+"Updates</a> page. If you don't have a licence key, please see <a "
+"href=\"%2$s\" target=\"_blank\">details & pricing</a>."
+msgstr ""
+"To enable updates, please enter your license key on the <a href=\"%1$s\">"
+"Updates</a> page. If you don't have a licence key, please see <a "
+"href=\"%2$s\" target=\"_blank\">details & pricing</a>."
+
+msgid ""
+"To unlock updates, please enter your license key below. If you don't have a "
+"licence key, please see <a href=\"%s\" target=\"_blank\">details & "
+"pricing</a>."
+msgstr ""
+"برای به روزرسانی لطفا کد لایسنس را وارد  کنید. <a href=\"%s\" "
+"target=\"_blank\">قیمت ها</a>."
+
+msgid "Toggle All"
+msgstr "انتخاب همه"
+
+msgid "Toolbar"
+msgstr "نوار ابزار"
+
+msgid "Tools"
+msgstr "ابزارها"
+
+msgid "Top Level Page (no parent)"
+msgstr "بالاترین سطح برگه(بدون والد)"
+
+msgid "Top aligned"
+msgstr "سمت بالا"
+
+msgid "Trackbacks"
+msgstr "پیگیری بازگشت ها"
+
+msgid "True / False"
+msgstr "صحیح / غلط"
+
+msgid "Try a different search term or browse %s"
+msgstr "عبارت جستجو دیگری را امتحان کنید یا %s را مرور کنید"
+
+msgid "Tutorial"
+msgstr "آموزش"
+
+msgid "Type"
+msgstr "نوع زمینه"
+
+msgid "Type to search..."
+msgstr "برای جستجو تایپ کنید..."
+
+msgid "URL"
+msgstr "آدرس"
+
+msgid "URL Slug"
+msgstr "نامک لینک"
+
+msgid "URLs"
+msgstr "آدرس ها"
+
+msgid "URLs for an item and items can be accessed with a query string."
+msgstr ""
+"آدرس‌های اینترنتی برای یک مورد و موارد را می‌توان با یک رشته کوئری دسترسی "
+"داشت."
+
+msgid "Unknown"
+msgstr "ناشناخته"
+
+msgid "Unknown field"
+msgstr "زمینه ناشناس"
+
+msgid "Unknown field group"
+msgstr "گروه ناشناس"
+
+msgid "Unlock Advanced Features and Build Even More with ACF PRO"
+msgstr "با ACF PRO ویژگی های پیشرفته را باز کنید و حتی بیشتر بسازید"
+
+msgid "Unlock Extra Features with ACF PRO"
+msgstr "قفل ویژگی های اضافی را با ACF PRO باز کنید"
+
+msgid "Update"
+msgstr "بروزرسانی"
+
+msgid "Update %s"
+msgstr "بروزرسانی %s"
+
+msgid "Update Available"
+msgstr "بروزرسانی موجود است"
+
+msgid "Update Button Label"
+msgstr "برچسب دکمه بروزرسانی"
+
+msgid "Update File"
+msgstr "بروزرسانی پرونده"
+
+msgid "Update Image"
+msgstr "بروزرسانی تصویر"
+
+msgid "Update Information"
+msgstr "ترجمه شده توسط دستیار وب"
+
+msgid "Update Item"
+msgstr "بروزرسانی آیتم"
+
+msgid "Update Plugin"
+msgstr "بروزرسانی افزونه"
+
+msgid "Update Tag"
+msgstr "نوسازی برچسب"
+
+msgid "Update a field on the selected values, referencing back to this ID"
+msgstr "با مراجعه به این شناسه، یک زمینه را در مقادیر انتخاب شده بروز کنید"
+
+msgid "Updated Message"
+msgstr "پیام بروز شده"
+
+msgid "Updated Options"
+msgstr "گزینه های بروز شده"
+
+msgid "Updates"
+msgstr "بروزرسانی ها"
+
+msgid "Upgrade Database"
+msgstr "به‌روزرسانی پایگاه داده"
+
+msgid "Upgrade Notice"
+msgstr "نکات به روزرسانی"
+
+msgid "Upgrade Sites"
+msgstr "ارتقاء سایت"
+
+msgid "Upgrade complete."
+msgstr "ارتقا کامل شد."
+
+msgid "Upgrade failed."
+msgstr "ارتقا با خطا مواجه شد."
+
+msgid "Upgrade to PRO"
+msgstr "ارتقا به نسخه پرو"
+
+msgid "Upgrading data to version %s"
+msgstr "به روز رسانی داده ها به نسحه %s"
+
+msgid "Uploaded To This Item"
+msgstr "در این مورد آپلود شد"
+
+msgid "Uploaded to post"
+msgstr "بارگذاری شده در نوشته"
+
+msgid "Uploaded to this %s"
+msgstr "در این %s بارگذاری شد"
+
+msgid "Uploaded to this post"
+msgstr "بارگذاری شده در این نوشته"
+
+msgid "Use AJAX to lazy load choices?"
+msgstr "از ایجکس برای خواندن گزینه های استفاده شود؟"
+
+msgid "Use Featured Image"
+msgstr "از تصویر شاخص استفاده کنید"
+
+msgid "Use a stylized checkbox using select2"
+msgstr "با استفاده از select2 از یک چک باکس طرح دار استفاده کنید"
+
+msgid "Use as featured image"
+msgstr "استفاده به عنوان تصویر شاخص"
+
+msgid ""
+"Used by screen readers for the filter by date heading on the post type list "
+"screen."
+msgstr ""
+"توسط صفحه‌خوان‌ها برای فیلتر بر اساس تاریخ در صفحه فهرست نوع پست استفاده "
+"می‌شود."
+
+msgid ""
+"Used by screen readers for the filter links heading on the post type list "
+"screen."
+msgstr ""
+"توسط صفحه‌خوان‌ها برای لینک‌های فیلتر در صفحه فهرست نوع پست استفاده می‌شود."
+
+msgid ""
+"Used by screen readers for the filter list pagination on the post type list "
+"screen."
+msgstr ""
+"توسط صفحه‌خوان‌ها برای صفحه‌بندی فهرست فیلتر در صفحه فهرست نوع پست استفاده "
+"می‌شود."
+
+msgid "Used by screen readers for the items list on the post type list screen."
+msgstr ""
+"توسط صفحه‌خوان‌ها برای فهرست موارد در صفحه فهرست نوع پست استفاده می‌شود."
+
+msgid ""
+"Used to display a message to editors alongside other fields. Useful for "
+"providing additional context or instructions around your fields."
+msgstr ""
+"برای نمایش پیام به ویرایشگران در کنار سایر زمینه ها استفاده می شود. برای "
+"ارائه متن یا دستورالعمل های اضافی در اطراف زمینه های خود مفید است."
+
+msgid "Useful for fields with a large number of rows."
+msgstr "برای فیلدهایی با تعداد ردیف زیاد مفید است."
+
+msgid "User"
+msgstr "کاربر"
+
+msgid "User Array"
+msgstr "آرایه کاربر"
+
+msgid "User Form"
+msgstr "فرم کاربر"
+
+msgid "User ID"
+msgstr "شناسه کاربر"
+
+msgid "User Object"
+msgstr "آبجکت کاربر"
+
+msgid "User Role"
+msgstr "نقش کاربر"
+
+msgid "User unable to add new %s"
+msgstr "کاربر قادر به اضافه کردن%s جدید نیست"
+
+msgid "Users"
+msgstr "کاربران"
+
+msgid "Uses the native WordPress media picker to upload, or choose files."
+msgstr "از انتخابگر رسانه وردپرس برای آپلود یا انتخاب فایل ها استفاده می کند."
+
+msgid "Uses the native WordPress media picker to upload, or choose images."
+msgstr "از انتخابگر رسانه وردپرس برای آپلود یا انتخاب تصاویر استفاده می کند."
+
+msgid "Validate Email"
+msgstr "اعتبار سنجی ایمیل"
+
+msgid "Validation"
+msgstr "Validation"
+
+msgid "Validation failed"
+msgstr "مشکل در اعتبار سنجی"
+
+msgid "Validation successful"
+msgstr "اعتبار سنجی موفق بود"
+
+msgid "Value"
+msgstr "مقدار"
+
+msgid "Value contains"
+msgstr "شامل می شود"
+
+msgid "Value is equal to"
+msgstr "مقدار برابر است با"
+
+msgid "Value is greater than"
+msgstr "مقدار بیشتر از"
+
+msgid "Value is less than"
+msgstr "مقدار کمتر از"
+
+msgid "Value is not equal to"
+msgstr "مقدار برابر نیست با"
+
+msgid "Value matches pattern"
+msgstr "مقدار الگوی"
+
+msgid "Value must be a number"
+msgstr "مقدار باید عددی باشد"
+
+msgid "Value must be a valid URL"
+msgstr "مقدار باید یک آدرس صحیح باشد"
+
+msgid "Value must be equal to or higher than %d"
+msgstr "مقدار باید مساوی یا بیشتر از %d باشد"
+
+msgid "Value must be equal to or lower than %d"
+msgstr "مقدار باید کوچکتر یا مساوی %d باشد"
+
+msgid "Value must not exceed %d characters"
+msgstr "مقدار نباید از %d کاراکتر بیشتر شود"
+
+msgid "Values will be saved as %s"
+msgstr "مقادیر ذخیره خواهند شد به صورت %s"
+
+msgid "Various"
+msgstr "مختلف"
+
+msgid "Version %s"
+msgstr "نسخه %s"
+
+msgid "Vertical"
+msgstr "عمودی"
+
+msgid "View %s"
+msgstr "%s بازدید"
+
+msgid "View Field"
+msgstr "نمایش زمینه"
+
+msgid "View Field Group"
+msgstr "مشاهده گروه زمینه"
+
+msgid "View Item"
+msgstr "مشاهده آیتم"
+
+msgid "View Items"
+msgstr "مشاهده موارد"
+
+msgid "View Options Page"
+msgstr "مشاهده صفحه گزینه ها"
+
+msgid "View Post"
+msgstr "مشاهده نوشته"
+
+msgid "View Post Type"
+msgstr "مشاهده نوع پست"
+
+msgid "View Posts"
+msgstr "مشاهده پست ها"
+
+msgid "View Pricing & Upgrade"
+msgstr "مشاهده قیمت و ارتقاء"
+
+msgid "View Tag"
+msgstr "مشاهده برچسب"
+
+msgid "View Taxonomy"
+msgstr "مشاهده طبقه بندی"
+
+msgid "View details"
+msgstr "کشاهده جزئیات"
+
+msgid "Viewing back end"
+msgstr "درحال نمایش سمت مدیریت"
+
+msgid "Viewing front end"
+msgstr "درحال نمایش سمت کاربر"
+
+msgid "Visibility"
+msgstr "نمایش"
+
+msgid "Visible on the frontend and in the admin dashboard."
+msgstr "در قسمت فرانت اند و در پیشخوان مدیریت قابل مشاهده است."
+
+msgid "Visit website"
+msgstr "به وب سایت مراجعه کنید"
+
+msgid "Visual"
+msgstr "بصری"
+
+msgid "Visual & Text"
+msgstr "بصری و متنی"
+
+msgid "Visual Only"
+msgstr "فقط بصری"
+
+msgid "WP Engine"
+msgstr "دستیار وب"
+
+msgid "WP Engine logo"
+msgstr "لوگوی WP Engine"
+
+msgid "WYSIWYG Editor"
+msgstr "ویرایشگر WYSIWYG"
+
+msgid ""
+"We are fanatical about support, and want you to get the best out of your "
+"website with ACF. If you run into any difficulties, there are several places "
+"you can find help:"
+msgstr ""
+"ما در مورد پشتیبانی متعصب هستیم و می خواهیم شما با ACF بهترین بهره را از وب "
+"سایت خود ببرید. اگر به مشکلی برخوردید ، چندین مکان وجود دارد که می توانید "
+"کمک کنید:"
+
+msgid "We do not recommend using this field in ACF Blocks."
+msgstr "ما استفاده از این زمینه را در بلوک های ACF توصیه نمی کنیم."
+
+msgid "Week Starts On"
+msgstr "اولین روز هفته"
+
+msgid ""
+"When child pages exist for this parent page, this page will redirect to the "
+"first child page."
+msgstr ""
+"وقتی صفحات چیلد برای این صفحه والد وجود داشته باشد، این صفحه به اولین صفحه "
+"چیلد هدایت می شود."
+
+msgid ""
+"Whether terms in this taxonomy should be sorted in the order they are "
+"provided to `wp_set_object_terms()`."
+msgstr ""
+"اینکه آیا عبارات در این طبقه بندی باید به ترتیبی که در «wp_set_object_terms()"
+"» ارائه شده است مرتب شوند."
+
+msgid "Widget"
+msgstr "ابزارک"
+
+msgid "Widgets"
+msgstr "ابزارک ها"
+
+msgid "Width"
+msgstr "عرض"
+
+msgid "Wrapper Attributes"
+msgstr "مشخصات پوشش زمینه"
+
+msgid "Yes"
+msgstr "بله"
+
+msgid "Your license key is defined in wp-config.php."
+msgstr "کلید مجوز شما در wp-config.php تعریف شده است."
+
+msgid "Zoom"
+msgstr "زوم"
+
+msgid "[ACF shortcode value disabled for preview]"
+msgstr "[مقدار کد کوتاه ACF برای پیش نمایش غیرفعال است]"
+
+msgid "and"
+msgstr "و"
+
+msgid "class"
+msgstr "کلاس"
+
+msgid "copy"
+msgstr "کپی"
+
+msgid "genre"
+msgstr "ژانر"
+
+msgid ""
+"https://wpengine.com/?utm_source=wordpress."
+"org&utm_medium=referral&utm_campaign=plugin_directory&utm_content=advanced_custom_fields"
+msgstr "https://dastyarweb.com"
+
+msgid "https://www.advancedcustomfields.com"
+msgstr "https://dastyarweb.com"
+
+msgid "id"
+msgstr "شناسه"
+
+msgid "is developed and maintained by"
+msgstr "توسعه یافته و توسط"
+
+msgid "is equal to"
+msgstr "برابر شود با"
+
+msgid "is not equal to"
+msgstr "برابر نشود با"
+
+msgid "layout"
+msgstr "طرح‌ها"
+
+msgid "Clear location"
+msgstr "حذف مکان"
+
+msgid "Click the \"%s\" button below to start creating your layout"
+msgstr "روی دکمه \"%s\" دز زیر کلیک کنید تا چیدمان خود را بسازید"
+
+msgid "Click to initialize TinyMCE"
+msgstr "برای اجرای TinyMCE کلیک کنید"
+
+msgid "Click to reorder"
+msgstr "برای سفارش مجدد کلیک کنید"
+
+msgid "Click to toggle"
+msgstr "کلیک برای انتخاب"
+
+msgid "Clone Field"
+msgstr "زمینه کپی"
+
+msgid "Close"
+msgstr "بستن"
+
+msgid "Close Field"
+msgstr "بستن زمینه"
+
+msgid "Close Modal"
+msgstr "بستن مودال"
+
+msgid "Close modal"
+msgstr "بستن مودال"
+
+msgid "Collapse Details"
+msgstr "عدم نمایش جزئیات"
+
+msgid "Collapsed"
+msgstr "جمع شد"
+
+msgid "Color Picker"
+msgstr "انتخاب کننده رنگ"
+
+msgid "Color value"
+msgstr "مقدار رنگ"
+
+msgid "Comma separated list. Leave blank for all types"
+msgstr "با کامای انگلیسی جدا کرده یا برای عدم محدودیت خالی بگذارید"
+
+msgid "Comment"
+msgstr "نظر"
+
+msgid "Comments"
+msgstr "دیدگاه‌ها"
+
+msgid "Conditional Logic"
+msgstr "منطق شرطی"
+
+msgid "Connect selected terms to the post"
+msgstr "الصاق آیتم های انتخابی به نوشته"
+
+msgid "Content"
+msgstr "محتوا"
+
+msgid "Content Editor"
+msgstr "ویرایش گر محتوا(ادیتور اصلی)"
+
+msgid "Controller Class"
+msgstr "کلاس کنترلر"
+
+msgid "Controls how new lines are rendered"
+msgstr "تنظیم کنید که خطوط جدید چگونه نمایش داده شوند"
+
+msgid ""
+"Controls the meta box on the content editor screen. By default, the "
+"Categories meta box is shown for hierarchical taxonomies, and the Tags meta "
+"box is shown for non-hierarchical taxonomies."
+msgstr ""
+"متاباکس را در صفحه ویرایشگر محتوا کنترل می کند. به‌طور پیشفرض، جعبه متا "
+"دسته‌ها برای طبقه‌بندی‌های سلسله مراتبی و متاباکس برچسب‌ها برای "
+"طبقه‌بندی‌های غیر سلسله مراتبی نشان داده می‌شوند."
+
+msgid "Copied"
+msgstr "کپی شد"
+
+msgid "Copy to clipboard"
+msgstr "درج در حافظه موقت"
+
+msgid "Create Terms"
+msgstr "ساخت آیتم (ترم)"
+
+msgid ""
+"Create a set of rules to determine which edit screens will use these "
+"advanced custom fields"
+msgstr ""
+"مجموعه ای از قوانین را بسازید تا مشخص کنید در کدام صفحه ویرایش، این "
+"زمینه‌های سفارشی سفارشی نمایش داده شوند"
+
+msgid ""
+"Create a term for the taxonomy that cannot be deleted. It will not be "
+"selected for posts by default."
+msgstr ""
+"یک اصطلاح برای طبقه بندی ایجاد کنید که قابل حذف نباشد. به طور پیشفرض برای "
+"پست ها انتخاب نمی شود."
+
+msgid "Create custom taxonomies to classify post type content"
+msgstr "طبقه بندی های سفارشی برای طبقه بندی محتوای نوع پست ایجاد کنید"
+
+msgid "Create post type"
+msgstr "ایجاد نوع پست"
+
+msgid "Create taxonomy"
+msgstr "ایجاد طبقه بندی"
+
+msgid "Created on %1$s at %2$s"
+msgstr "Created on %1$s at %2$s"
+
+msgid "Current Page"
+msgstr "صفحه فعلی"
+
+msgid "Current User"
+msgstr "کاربر فعلی"
+
+msgid "Current User Role"
+msgstr "نقش کاربرفعلی"
+
+msgid "Current Version"
+msgstr "نسخه فعلی"
+
+msgid "Custom Fields"
+msgstr "زمینه‌های سفارشی"
+
+msgid "Custom Meta Box"
+msgstr "متا باکس سفارشی"
+
+msgid "Custom Meta Box Callback"
+msgstr "پاسخ به تماس متا باکس سفارشی"
+
+msgid "Custom Permalink"
+msgstr "پیوند یکتا سفارشی"
+
+msgid "Custom Query Variable"
+msgstr "متغیر کوئری دلخواه"
+
+msgid "Custom Storage"
+msgstr "ذخیره سازی سفارشی"
+
+msgid "Custom slug for the Archive URL."
+msgstr "نامک سفارشی برای URL بایگانی."
+
+msgid "Custom:"
+msgstr "دلخواه:"
+
+msgid "Customize WordPress with powerful, professional and intuitive fields."
+msgstr "وردپرس را با زمینه‌های حرفه‌ای و قدرتمند سفارشی کنید."
+
+msgid "Customize the map height"
+msgstr "سفارشی سازی ارتفاع نقشه"
+
+msgid "Customize the query variable name"
+msgstr "نام متغیر کوئری را سفارشی کنید"
+
+msgid "Customize the query variable name."
+msgstr "نام متغیر کوئری را سفارشی کنید."
+
+msgid "Customize the slug used in the URL"
+msgstr "نامک مورد استفاده در URL را سفارشی کنید"
+
+msgid "Customize the slug used in the URL."
+msgstr "نامک مورد استفاده در URL را سفارشی کنید."
+
+msgid "Dashicon class name"
+msgstr "نام کلاس دش آیکون"
+
+msgid "Data Storage"
+msgstr "ذخیره سازی داده ها"
+
+msgid "Database Upgrade Required"
+msgstr "به روزرسانی دیتابیس لازم است"
+
+msgid ""
+"Database Upgrade complete. <a href=\"%s\">Return to network dashboard</a>"
+msgstr ""
+"به روزرسانی دیتابیس انجام شد. <a href=\"%s\">بازگشت به پیشخوان شبکه</a>"
+
+msgid "Database upgrade complete. <a href=\"%s\">See what's new</a>"
+msgstr "ارتقای پایگاه داده کامل شد. <a href=\"%s\"> تغییرات جدید را ببینید</a>"
+
+msgid "Date Picker"
+msgstr "تاریخ"
+
+msgctxt "Date Picker JS closeText"
+msgid "Done"
+msgstr "انجام شده"
+
+msgctxt "Date Picker JS currentText"
+msgid "Today"
+msgstr "امروز"
+
+msgctxt "Date Picker JS nextText"
+msgid "Next"
+msgstr "بعدی"
+
+msgctxt "Date Picker JS prevText"
+msgid "Prev"
+msgstr "قبلی"
+
+msgctxt "Date Picker JS weekHeader"
+msgid "Wk"
+msgstr "هفته"
+
+msgid "Date Time Picker"
+msgstr "انتخاب کننده زمان و تاریخ"
+
+msgctxt "Date Time Picker JS amText"
+msgid "AM"
+msgstr "صبح"
+
+msgctxt "Date Time Picker JS amTextShort"
+msgid "A"
+msgstr "A"
+
+msgctxt "Date Time Picker JS closeText"
+msgid "Done"
+msgstr "انجام شده"
+
+msgctxt "Date Time Picker JS currentText"
+msgid "Now"
+msgstr "الان"
+
+msgctxt "Date Time Picker JS hourText"
+msgid "Hour"
+msgstr "ساعت‌"
+
+msgctxt "Date Time Picker JS microsecText"
+msgid "Microsecond"
+msgstr "میکرو ثانیه"
+
+msgctxt "Date Time Picker JS millisecText"
+msgid "Millisecond"
+msgstr "میلی ثانیه"
+
+msgctxt "Date Time Picker JS minuteText"
+msgid "Minute"
+msgstr "دقبفت"
+
+msgctxt "Date Time Picker JS pmText"
+msgid "PM"
+msgstr "عصر"
+
+msgctxt "Date Time Picker JS pmTextShort"
+msgid "P"
+msgstr "عصر"
+
+msgctxt "Date Time Picker JS secondText"
+msgid "Second"
+msgstr "ثانویه"
+
+msgctxt "Date Time Picker JS selectText"
+msgid "Select"
+msgstr "انتخاب (Select)"
+
+msgctxt "Date Time Picker JS timeOnlyTitle"
+msgid "Choose Time"
+msgstr "انتخاب زمان"
+
+msgctxt "Date Time Picker JS timeText"
+msgid "Time"
+msgstr "زمان"
+
+msgctxt "Date Time Picker JS timezoneText"
+msgid "Time Zone"
+msgstr "منطقه زمانی"
+
+msgid "Deactivate"
+msgstr "غیرفعال کردن"
+
+msgid "Deactivate License"
+msgstr "غیرفعال سازی لایسنس"
+
+msgid "Deactivate this item"
+msgstr "این مورد را غیرفعال کنید"
+
+msgid "Default"
+msgstr "پیش فرض"
+
+msgid "Default Template"
+msgstr "پوسته پیش فرض"
+
+msgid "Default Term"
+msgstr "اصطلاح پیش فرض"
+
+msgid "Default Value"
+msgstr "مقدار پیش فرض"
+
+msgid ""
+"Define an endpoint for the previous accordion to stop. This accordion will "
+"not be visible."
+msgstr ""
+"یک نقطه پایانی برای توقف آکاردئون قبلی تعریف کنید. این آکاردئون مخفی خواهد "
+"بود."
+
+msgid "Delay Initialization"
+msgstr "تاخیر اولیه سازی"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Delete Field Group"
+msgstr "حذف گروه زمینه"
+
+msgid "Delete Layout"
+msgstr "حذف طرح"
+
+msgid "Delete Terms Capability"
+msgstr "قابلیت حذف شرایط"
+
+msgid "Delete With User"
+msgstr "حذف با کاربر"
+
+msgid "Delete field"
+msgstr "حذف زمینه"
+
+msgid "Delete items by a user when that user is deleted."
+msgstr "هنگامی که کاربر حذف می شود، موارد توسط یک کاربر را حذف کنید."
+
+msgid "Describes a navigation link block variation used in the block editor."
+msgstr ""
+"یک تغییر بلوک پیوند ناوبری را که در ویرایشگر بلوک استفاده می شود، توصیف می "
+"کند."
+
+msgid "Describes the Description field on the Edit Tags screen."
+msgstr "زمینه توضیحات را در صفحه ویرایش برچسب ها توصیف می کند."
+
+msgid "Describes the Name field on the Edit Tags screen."
+msgstr "زمینه نام را در صفحه ویرایش برچسب ها توصیف می کند."
+
+msgid "Describes the Parent field on the Edit Tags screen."
+msgstr "زمینه والد را در صفحه ویرایش برچسب ها توصیف می کند."
+
+msgid "Describes the Slug field on the Edit Tags screen."
+msgstr "زمینه نامک را در صفحه ویرایش برچسب ها توصیف می کند."
+
+msgid "Description"
+msgstr "توضیحات"
+
+msgid "Description Field Description"
+msgstr "توضیحات زمینه توضیحات"
+
+msgid "Description for a navigation link block variation."
+msgstr "توضیحات برای تغییر بلوک پیوند ناوبری."
+
+msgid "Discussion"
+msgstr "گفتگو"
+
+msgid "Display"
+msgstr "نمایش"
+
+msgid "Display Format"
+msgstr "فرمت نمایش"
+
+msgid "Display a column for the taxonomy on post type listing screens."
+msgstr "نمایش یک ستون برای طبقه بندی در صفحه های لیست نوع پست."
+
+msgid "Display this accordion as open on page load."
+msgstr "نمایش آکوردئون این به عنوان باز در بارگذاری صفحات."
+
+msgid "Displays text alongside the checkbox"
+msgstr "نمایش متن همراه انتخاب"
+
+msgid ""
+"Displays the WordPress WYSIWYG editor as seen in Posts and Pages allowing "
+"for a rich text-editing experience that also allows for multimedia content."
+msgstr ""
+"ویرایشگر WYSIWYG وردپرس را همانطور که در پست‌ها و صفحات دیده می‌شود نمایش "
+"می‌دهد و امکان ویرایش متن غنی را فراهم می‌کند و محتوای چندرسانه‌ای را نیز "
+"امکان‌پذیر می‌کند."
+
+msgid "Documentation"
+msgstr "اسناد"
+
+msgid "Done"
+msgstr "انجام شده"
+
+msgid "Drag to reorder"
+msgstr "گرفتن و کشیدن برای مرتب سازی"
+
+msgid "Duplicate"
+msgstr "تکثیر"
+
+msgid "Duplicate Layout"
+msgstr "تکثیر طرح"
+
+msgid "Duplicate field"
+msgstr "تکثیر زمینه"
+
+msgid "Duplicate layout"
+msgstr "طرح تکراری"
+
+msgid "Duplicate post type"
+msgstr "نوع پست تکراری"
+
+msgid "Duplicate row"
+msgstr "ردیف تکراری"
+
+msgid "Duplicate taxonomy"
+msgstr "کپی طبقه بندی"
+
+msgid "Duplicate this item"
+msgstr "تکثیر این زمینه"
+
+msgid "Edit"
+msgstr "ویرایش"
+
+msgid "Edit %s"
+msgstr "ویرایش %s"
+
+msgid "Edit Field"
+msgstr "ویرایش زمینه"
+
+msgid "Edit Field Group"
+msgstr "ویرایش گروه زمینه"
+
+msgid "Edit File"
+msgstr "ویرایش پرونده"
+
+msgid "Edit Image"
+msgstr "ویرایش تصویر"
+
+msgid "Edit Item"
+msgstr "ویرایش تور"
+
+msgid "Edit Options Page"
+msgstr "ویرایش صفحه گزینه ها"
+
+msgid "Edit Post"
+msgstr "ویرایش پست"
+
+msgid "Edit Post Type"
+msgstr "ویرایش پست تایپ"
+
+msgid "Edit Tag"
+msgstr "ویرایش برچسب"
+
+msgid "Edit Taxonomy"
+msgstr "ویرایش طبقه بندی"
+
+msgid "Edit Terms Capability"
+msgstr "قابلیت ویرایش شرایط"
+
+msgid "Edit field"
+msgstr "ویرایش زمینه"
+
+msgid "Edit field group"
+msgstr "ویرایش گروه زمینه"
+
+msgid "Editor"
+msgstr "ويرايشگر"
+
+msgid "Elements"
+msgstr "عناصر"
+
+msgid "Email"
+msgstr "پست الکترونیکی"
+
+msgid "Embed Size"
+msgstr "اندازه جانمایی"
+
+msgid "Enable Transparency"
+msgstr "شفافیت را فعال کنید"
+
+msgid "Enable various features in the content editor."
+msgstr "ویژگی های مختلف را در ویرایشگر محتوا فعال کنید."
+
+msgid ""
+"Enabling the bidirectional setting allows you to update a value in the "
+"target fields for each value selected for this field, adding or removing the "
+"Post ID, Taxonomy ID or User ID of the item being updated. For more "
+"information, please read the <a href=\"%s\" target=\"_blank\">"
+"documentation</a>."
+msgstr ""
+"فعال کردن تنظیمات دو جهته به شما امکان می‌دهد برای هر مقدار انتخاب شده برای "
+"این زمینه، مقداری را در زمینه های هدف بروزرسانی کنید و شناسه پست، شناسه "
+"طبقه‌بندی یا شناسه کاربری مورد بروزرسانی را اضافه یا حذف کنید. برای اطلاعات "
+"بیشتر، لطفاً <a href=\"%s\" target=\"_blank\">اسناد</a> را مطالعه کنید."
+
+msgid "Endpoint"
+msgstr "نقطه پایانی"
+
+msgid "Enter URL"
+msgstr "آدرس را وارد کنید"
+
+msgid "Enter each choice on a new line."
+msgstr "هر انتخاب را در یک خط جدید وارد کنید."
+
+msgid "Enter each default value on a new line"
+msgstr "هر مقدار پیش فرض را در یک خط جدید وارد کنید"
+
+msgid "Enter your license key to unlock updates"
+msgstr "کلید مجوز خود را برای باز کردن قفل بروزرسانی ها وارد کنید"
+
+msgid "Error loading field."
+msgstr "خطا در بارگیری قسمت."
+
+msgid "Error loading page"
+msgstr "خطا در بارگیری صفحه"
+
+msgid "Error uploading file. Please try again"
+msgstr "خطا در آپلود فایل. لطفا مجدد بررسی کنید"
+
+msgid "Escape HTML"
+msgstr "حذف HTML"
+
+msgid "Excerpt"
+msgstr "چکیده"
+
+msgid "Exclude From Search"
+msgstr "حذف از جستجو"
+
+msgid "Expand Details"
+msgstr "نمایش جزئیات"
+
+msgid ""
+"Expand the functionality of WordPress beyond standard posts and pages with "
+"custom post types."
+msgstr ""
+"قابلیت های وردپرس را فراتر از پست ها و صفحات استاندارد با انواع پست های "
+"سفارشی گسترش دهید."
+
+msgid "Export"
+msgstr "برون بری"
+
+msgid "Export - Generate PHP"
+msgstr "برون بری - ایجاد PHP"
+
+msgid "Export As JSON"
+msgstr "برون بری به عنوان JSON"
+
+msgid "Export Field Groups"
+msgstr "برون بری گروه های زمینه"
+
+msgid "Exported 1 item."
+msgid_plural "Exported %s items."
+msgstr[0] "%s مورد برون بری شد."
+msgstr[1] "1 مورد برون بری شد."
